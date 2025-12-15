@@ -50,7 +50,7 @@ const App: React.FC = () => {
       <header className="bg-white shadow-sm border-b border-gray-100 py-4 px-6 z-10">
         <div className="max-w-4xl mx-auto flex items-center justify-between">
           <h1 className="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-            外星小偷
+            Alien Coaster
           </h1>
           <div className="text-xs font-medium text-gray-400 border border-gray-200 px-2 py-1 rounded-full">
             v1.2
